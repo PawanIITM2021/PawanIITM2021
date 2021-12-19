@@ -1,5 +1,5 @@
-                                #Hi 👋, I'm Pawan Pathak
-                      **  Student, Enthusiast, constant_Learning  **
+   #                           Hi 👋, I'm Pawan Pathak
+   ###                 **  Student, Enthusiast, constant_Learning  **
 
 
 - 🔭 I’m Student@IITM_bsc_degree ...
