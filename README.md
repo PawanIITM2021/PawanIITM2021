@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/pawan-kumar-pathak-601966182/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pawan-kumar-pathak-601966182/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17334181/pawan-pathak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:17334181" height="30" width="40" /></a>
-<a href="/https://mylappywala.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://mylappywala.com/" height="30" width="40" /></a>
+<a href="https://mylappywala.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://mylappywala.com/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
