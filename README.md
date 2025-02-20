@@ -11,7 +11,7 @@
 ### 📫 Also Catch me on [Stack Overflow](https://stackoverflow.com/users/17334181/pawan-pathak)
 ### ⚡ Fun fact  " I am GOD "
 
-- 📝 I regularly write articles on [https://mylappywala.com/](https://mylappywala.com/)
+- 📝 founder of vmaniinternational [[https://vmaniinternational.in/](https://vmaniinternational.in/)]
 
 
 
